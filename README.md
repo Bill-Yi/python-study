@@ -1,2 +1,2 @@
 # python-study
-learning python
+学无止境
